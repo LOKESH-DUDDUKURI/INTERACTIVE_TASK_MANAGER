@@ -1,4 +1,4 @@
-**Interactive task manager**
+**Interactive task manager**</br>
 **Overview**
 This is a simple command-line application built in Python that allows users to manage their tasks effectively. The Task Management System enables users to create, view, modify, and delete tasks, providing a straightforward interface for managing daily activities.
 
